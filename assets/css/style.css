@@ -1,0 +1,153 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-size: 15px;
+}
+body{
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif Sans;
+}
+.image{
+    margin-top: -1500px
+}
+.cabeca{
+    display:block;
+}
+.header{
+    background-color: #2F6B4F;
+    display:flex;
+    justify-content:space-between;
+    padding: 24px 115px;
+}
+.header .home{
+    color: #ffffffff;
+    text-decoration: none;
+}
+.header .home2{
+    width: 100%;
+    height: 100%;
+    color: #ffffffff;
+    margin-top:5px;
+    margin-left: 10px;
+    text-decoration: none;
+    justify-content:space-between;
+    font-size:30px;
+}
+.header .logo{
+    display:flex;
+    flex-direction:row;
+}
+.button{
+    background-color: #ffffffff;
+}
+.button a{
+    text-decoration:none;
+    font-weight: bold;
+}
+.button img{
+    height: 15px;
+    width: 15px;
+}
+.titulo{
+    display:flex;
+    justify-content:space-between;
+}
+.titulo .home{
+    justify-content:space-between;
+    padding: 0 21px;
+    font-size: 20px;
+}
+.start{
+    background-color: #2F6B4F;
+}
+.start .text2{
+    padding: 170px;
+}
+.text2 .create{
+    color: #ffffffff;
+    font-size:60px;
+    margin-left:20%;
+}
+.text2 .create2{
+    color: #ffffffff;
+    font-size:60px;
+    margin-left:30%;
+}
+.text2 .min{
+    color: #ffffffff;
+    margin-top: 30px;
+    margin-left: 7%;
+    font-weight:100;
+    font-size:18px;
+}
+.text2 .button{
+    margin-top: 50px;
+    margin-left: 42%;
+    width: 140px;
+    height: 70px;
+    color: black;
+}
+.button img{
+    margin-left: 15px;
+    height: 20px;
+    width: 20px;
+}
+.button{
+    display:flex;
+    align-items: center;
+    justify-content:space-between;
+    padding-left:10px;
+    padding-right:10px;
+}
+.aval{
+    margin-top: 70px;
+}
+.aval .number, .aval .type{
+    text-decoration:none;
+}
+.aval .number{
+    font-size: 35px;
+    font-weight: 500;
+    margin-left: 18%;
+    color: black;
+}
+.aval .type{
+    font-size: 20px;
+    font-weight: 300;
+    margin-left: 15%;
+    color: black;
+}
+.pessoas{
+    margin-left:17%;
+    margin-top: -150px;
+}
+.need{
+    background-color: #F9F9F9;
+    margin-top:100px;
+}
+.vinicao{
+    margin-left: 25%;
+}
+.textin .cake{
+    margin-left:50px;
+    font-size:20px;
+    color: rgb(122, 121, 121);
+}
+.textin .castro{
+    margin-left:40px;
+    font-size:40px;
+}
+.projects{
+    margin-top:100px;
+}
+.projects .textao p{
+    margin-left:50px;
+    font-size:20px;
+    font-family: 'Arial';
+    color: red;
+}
+.images1 img{
+    justify-content:space-between;
+    gap: 20px;
+}
+
